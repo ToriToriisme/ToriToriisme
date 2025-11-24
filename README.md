@@ -16,6 +16,18 @@
 
 - 👨‍💻 All of my projects are available at **[https://toritoriisme.github.io/Portfolio/](https://toritoriisme.github.io/Portfolio/)**
 
+  ## My Featured Projects
+
+<a href="https://github.com/ToriToriisme/AquaLife-mobileApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ToriToriisme&repo=AquaLife-mobileApp&theme=dark" />
+</a>
+  
+
+
+<!-- Add more pinned projects here as you like -->
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/ToriToriisme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ToriToriisme" height="30" width="40" /></a>
@@ -28,12 +40,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ToriToriisme&show_icons=true&locale=en&layout=compact" alt="ToriToriisme" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ToriToriisme&show_icons=true&locale=en" alt="ToriToriisme" /></p>
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
